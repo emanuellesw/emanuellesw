@@ -1,9 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CAA8D3&height=120&section=header"/>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emanuellesw&show_icons=true&count_private=true&hide_border=true&title_color=CAA8D3&icon_color=482153&text_color=CAA8D3&bg_color=2C1234" alt="Emanuelle Souza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellesw&layout=compact&hide_border=true&title_color=CAA8D3&text_color=CAA8D3&bg_color=CAA8D3" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellesw&layout=compact&hide_border=true&title_color=CAA8D3&text_color=CAA8D3&bg_color=0d1117" />
 </div>
 
+<p><h6><strong>Minhas Habilidades <br>
+  Linguagens de Programação: <br>
+  C++: Experiência em programação orientada a objetos, desenvolvimento de software de alto desempenho e aplicação em sistemas embarcados. <br>
+  Portugol: Familiaridade com lógica de programação, algoritmos e desenvolvimento de pseudocódigo. <br>
+  CSS: Conhecimento em estilização de páginas web, design responsivo e frameworks como Bootstrap.</h6></p>
 
 
  <div align="center">
