@@ -4,6 +4,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellesw&layout=compact&hide_border=true&title_color=CAA8D3&text_color=CAA8D3&bg_color=0d1117" />
 </div>
 
+<h5>Programming for now to ensure experience!</h5><br>
+<h6>17 years old</h6>
+
 <p><h6><strong>Minhas Habilidades <br>
   Linguagens de Programação: <br>
   C++: Experiência em programação orientada a objetos, desenvolvimento de software de alto desempenho e aplicação em sistemas embarcados. <br>
