@@ -11,6 +11,13 @@
   CSS: Conhecimento em estilização de páginas web, design responsivo e frameworks como Bootstrap.</h6></p>
 
 
+<p><h6><strong>My skills</strong> <br>
+  Programming languages: <br>
+  C++: Experience in object-oriented programming, high-performance software development and application in embedded systems. <br>
+  Portugol: Familiarity with programming logic, algorithms, and pseudocode development. <br>
+  CSS: Knowledge in web page styling, responsive design, and frameworks such as Bootstrap.</h6></p>
+
+
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{emanuellesw}/count.svg" /></p> 
