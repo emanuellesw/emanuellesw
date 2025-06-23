@@ -12,13 +12,6 @@
 <h5>Programming for now to ensure experience!</h5><br>
 <h6>17 years old</h6>
 
-<p><h6><strong>Minhas Habilidades <br>
-  Linguagens de Programação: <br>
-  C++: Experiência em programação orientada a objetos, desenvolvimento de software de alto desempenho e aplicação em sistemas embarcados. <br>
-  Portugol: Familiaridade com lógica de programação, algoritmos e desenvolvimento de pseudocódigo. <br>
-  CSS: Conhecimento em estilização de páginas web, design responsivo e frameworks como Bootstrap.</h6></p>
-
-
 <p><h6><strong>My skills</strong> <br>
   Programming languages: <br>
   Junior dev in Java S
