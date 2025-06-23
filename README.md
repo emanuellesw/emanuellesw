@@ -21,6 +21,8 @@
 
 <p><h6><strong>My skills</strong> <br>
   Programming languages: <br>
+  Junior dev in Java S
+  Front end and Back end
   C++: Experience in object-oriented programming, high-performance software development and application in embedded systems. <br>
   Portugol: Familiarity with programming logic, algorithms, and pseudocode development. <br>
   CSS: Knowledge in web page styling, responsive design, and frameworks such as Bootstrap.</h6></p>
